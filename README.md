@@ -1,7 +1,7 @@
 ### Hi there 👋 I'mYuFa
-:::info
+
 I am a college student who is full of love for life and eager to change the world with code.🌸🌸🌸
-:::
+
 
 - ✔️Welcome to communicate with me
 - 😜You can visit my blog：[https://www.cnblogs.com/yf88/](https://www.cnblogs.com/yf88/)
@@ -12,8 +12,9 @@ I am a college student who is full of love for life and eager to change the worl
 
 **programming**<br />**graphic design**<br />**video editing**
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuFa88&include_all_commits=true&count_private-true&custom_title=你的账号用户名'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuFa88&layout=compact">
 
 
 <!--
