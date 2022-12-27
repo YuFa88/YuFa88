@@ -1,6 +1,6 @@
 ### Hi there 👋 I'mYuFa
 
-I am a college student who is full of love for life and eager to change the world with code.🌸🌸🌸
+<font color=red>I am a college student who is full of love for life and eager to change the world with code.🌸🌸🌸</font>
 
 
 - ✔️Welcome to communicate with me
@@ -9,12 +9,12 @@ I am a college student who is full of love for life and eager to change the worl
   <a name="TcYvG"></a>
 
 ## I'm interested
-
-**programming**<br />**graphic design**<br />**video editing**
+**⚡programming** **🌱graphic design** **🔭video editing**
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuFa88&include_all_commits=true&count_private-true&custom_title=你的账号用户名'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuFa88&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuFa88&layout=compact">
 
 
 <!--
